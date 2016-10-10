@@ -16,6 +16,4 @@ module Codaisseurbnb
       ActiveRecord::Base.connection
     end
   end
-
-  end
 end
