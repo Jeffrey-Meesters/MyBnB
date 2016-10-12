@@ -1,5 +1,6 @@
 require 'rails_helper'
 
+
 describe "shared/_navbar.html.erb" do
   before { sign_in user }
 
